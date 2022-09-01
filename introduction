@@ -1,0 +1,21 @@
+There are 3 main categies of design patters. Creational to create objects in a controlled way, Structural to provide new functionality to the class structures, Beahvioral to provide common communcation patterns between objects.
+* Creational patters examples:
+  - Factory method
+  - Singleton
+  - Builder
+ - ...
+* Structural pattern examples:
+  - Adapter/ Wrapper
+  - Composite
+  - Facde
+  - Proxy
+  - ...
+* Behavioural pattern examples:
+  - Command
+  - Iterator
+  - Observer
+  - Strategy
+  - Template method
+
+references
+[1] https://en.wikipedia.org/wiki/Software_design_pattern
