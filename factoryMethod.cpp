@@ -93,6 +93,7 @@ int main()
     AnimalFactory factory;
     factory.createAnimal(1);
   }
+  std::cout << "------------------------" << std::endl;
   return 0;
 }
 //-------------------------------------------------------------------------------------
