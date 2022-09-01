@@ -44,7 +44,7 @@ public:
 };
 //-------------------------------------------------------------------------------------
 // Factory design pattern
-class AnimalFactory : public Animal
+class AnimalFactory
 {
 public:
   static std::unique_ptr<Animal> createAnimal(int id)
