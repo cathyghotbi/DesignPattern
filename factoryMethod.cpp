@@ -89,7 +89,10 @@ int main()
     dog->printName();
   }
   std::cout << "------------------------" << std::endl;
-  
+  {
+    AnimalFactory factory;
+    factory.createAnimal(1);
+  }
   return 0;
 }
 //-------------------------------------------------------------------------------------
